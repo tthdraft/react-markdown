@@ -5,7 +5,7 @@ import rehypeRaw from 'rehype-raw';
 
 export default function App() {
 
-  const input = `<div> Some *emphasis* and <strong>strong</strong>! </div>`
+  const input = `<div> Some *emphasis* and <strong>strong</strong> text! </div>`
 
   return (
     <div>
